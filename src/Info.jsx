@@ -20,8 +20,7 @@ export default function Info() {
         <h3 className="sum-head">About</h3>
         <p className="text">
           I am an aspiring full-stack developer with a passion for learning and
-          growing my skills. My aim is to contribute to projects that have an
-          impact.
+          growing my skills. My aim is to do meaningful work while still learning on the job.
         </p>
         <h3 className="sum-head">Interests</h3>
         <p className="text">My interests outside tech include keeping up to date with the latest sports and listening to DarkNet Diaries or 
