@@ -5,17 +5,25 @@ export default function Info() {
     <div className="info-section">
       <h3 className="name">Kgotso Makhalimele</h3>
       <p className="description">Software Developer</p>
+
       <div className="contact-btn">
+        <a href="mailto:kgotsom@protonmail.com">
         <sl-button size="small">
           <sl-icon name="envelope-at"></sl-icon> Email{" "}
         </sl-button>
+        </a>
+        <a href="https:github.com/kgotsosm" target="_blank">
         <sl-button size="small">
           <sl-icon name="github"></sl-icon> GitHub
         </sl-button>
+        </a>
+        <a href="https://www.linkedin.com/in/kgotso-makhalimele/" target="_blank">
         <sl-button size="small">
           <sl-icon name="linkedin"></sl-icon> LinkedIn
         </sl-button>
+        </a>
       </div>
+
       <div>
         <h3 className="sum-head">About</h3>
         <p className="text">
